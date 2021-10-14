@@ -1,0 +1,6 @@
+framework module SimpleNativeUserPayment {
+  umbrella header "SimpleNativeUserPayment.h"
+
+  export *
+  module * { export * }
+}
