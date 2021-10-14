@@ -10,6 +10,7 @@ Pod::Spec.new do |spec|
   spec.author = { "yilang" => "yilang@bepic.cc" }
   spec.ios.deployment_target = "10.0"
   spec.source = { :git => "https://github.com/bepic-games/SimpleNativeV2UserPaymentIOSSDK.git", :tag => "#{spec.version}" }
+  spec.swift_version = '5.0'
   spec.source_files= 'SimpleNativeV2UserPaymentIOSSDK/*.{framework}/Headers/*.h'
   spec.vendored_frameworks = 'SimpleNativeV2UserPaymentIOSSDK/*.{framework}'
   spec.public_header_files = 'SimpleNativeV2UserPaymentIOSSDK/*.{framework}/Headers/*.h'
