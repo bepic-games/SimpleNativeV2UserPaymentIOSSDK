@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name = "SimpleNativeV2UserPaymentIOSSDK"
-  spec.version="0.1.1"
+  spec.version="0.1.2"
   spec.summary= "Simple SDK for include UserPayment sdk"
   spec.description= <<-DESC
   Simple SDK for UserPayment sdk , please includ the core sdk more
