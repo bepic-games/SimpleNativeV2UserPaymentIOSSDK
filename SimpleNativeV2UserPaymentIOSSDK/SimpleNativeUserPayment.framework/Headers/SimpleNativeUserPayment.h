@@ -8,7 +8,6 @@
 #ifndef SimpleNativeUserPayment_h
 #define SimpleNativeUserPayment_h
 #import <Foundation/Foundation.h>
-#import <UIKit/UIKit.h>
 #import <SimpleNativeBase/SimpleNativeBase.h>
 
 //inner model
@@ -49,14 +48,6 @@
 @end
 
 
-@interface SimpleSDKApplication : NSObject
-
-+ (instancetype)sharedInstance;
-
-- (BOOL)application:(UIApplication *)app openURL:(NSURL *)url options:(NSDictionary<UIApplicationOpenURLOptionsKey, id> *)options;
-
-- (void)scene:(UIScene *)scene openURLContexts:(NSSet<UIOpenURLContext *> *)URLContexts;
-@end
 
 //! Project version number for SimpleNativeUserPayment.
 FOUNDATION_EXPORT double SimpleNativeUserPaymentVersionNumber;
