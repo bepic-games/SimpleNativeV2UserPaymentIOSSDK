@@ -6,7 +6,7 @@
 	<dict>
 		<key>FacebookSDKStrings.bundle/Info.plist</key>
 		<data>
-		YRH2+9hg60higwcyAEIJEVZjsqg=
+		vNY+r22sRPotRPCLy0WRXQR6VL4=
 		</data>
 		<key>FacebookSDKStrings.bundle/af.lproj/FacebookSDK.strings</key>
 		<dict>
@@ -406,11 +406,11 @@
 		</dict>
 		<key>Headers/SimpleNativeUserPayment.h</key>
 		<data>
-		uxqjsEEeLICfCU0ujn/sRq2ahEA=
+		NyMZlQmOLfFpR5UnhloC8O38eao=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		nm4n6T7Q4oZNDdVo2kjXv19Ekds=
+		bSmGf/mu6ndMKZDfH4wecWEwAX4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -423,11 +423,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			YRH2+9hg60higwcyAEIJEVZjsqg=
+			vNY+r22sRPotRPCLy0WRXQR6VL4=
 			</data>
 			<key>hash2</key>
 			<data>
-			xaTwNhaSEjVtth264dKmgu/pRv1uMm8zpTOkilo1iGo=
+			27HUEYXGUm+ogv8/m4IHoM7tR76XAgojiETvmsbt07E=
 			</data>
 		</dict>
 		<key>FacebookSDKStrings.bundle/af.lproj/FacebookSDK.strings</key>
@@ -1006,11 +1006,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			uxqjsEEeLICfCU0ujn/sRq2ahEA=
+			NyMZlQmOLfFpR5UnhloC8O38eao=
 			</data>
 			<key>hash2</key>
 			<data>
-			oKgaknfkIBMQptuIuTnupnlYrQqV8pOLpZh+H0mORIU=
+			GxofQ9As19gq1lENjOvVI9WeZaoGm6NVlob23iSC5Jw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

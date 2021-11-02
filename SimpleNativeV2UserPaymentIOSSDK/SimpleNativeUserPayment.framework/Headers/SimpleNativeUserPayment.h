@@ -36,6 +36,7 @@
 +(State *) CLIENT_SDK_NOT_INIT ;
 //自动登录失败
 +(State *) CLIENT_AUTO_LOGIN_FAIL ;
++(State *) CLIENT_HAS_LOGIN;
 
 //未知错误
 +(State *) CLIENT_UNKNOW_EXCEPTION ;
