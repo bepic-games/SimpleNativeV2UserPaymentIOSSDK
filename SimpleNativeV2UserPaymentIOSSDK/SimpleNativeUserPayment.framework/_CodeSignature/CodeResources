@@ -406,7 +406,7 @@
 		</dict>
 		<key>Headers/SimpleNativeUserPayment.h</key>
 		<data>
-		NyMZlQmOLfFpR5UnhloC8O38eao=
+		rzSgRvdaEekPCDXbWRDpV/KKp3w=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -1006,11 +1006,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			NyMZlQmOLfFpR5UnhloC8O38eao=
+			rzSgRvdaEekPCDXbWRDpV/KKp3w=
 			</data>
 			<key>hash2</key>
 			<data>
-			GxofQ9As19gq1lENjOvVI9WeZaoGm6NVlob23iSC5Jw=
+			N4XODBtc7Kd5W4LDmPHlyPItJf56yZyewKuOg+LADdk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

@@ -18,6 +18,18 @@
 @property (nonatomic,strong) NSDictionary * actionInfo;
 @end
 
+@interface AppleCheckResult : NSObject
+@property (nonatomic) long long gameOrderId;
+@property (nonatomic,strong) NSString * transactionId;
+@property (nonatomic,strong) NSString * originalTransactionId;
+@property (nonatomic,strong) NSString * itemId;
+@property (nonatomic,strong) NSString * productId;
+@property (nonatomic,strong) NSString * itemType;
+@property (nonatomic) long long purchaseTs;
+@property (nonatomic) long long expiredTs;
+@property (nonatomic,strong) NSString * msg;
+@end
+
 @interface ERROR_CODE:NSObject
 
 //连接服务器失败
