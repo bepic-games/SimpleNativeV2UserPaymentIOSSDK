@@ -6,7 +6,7 @@
 	<dict>
 		<key>FacebookSDKStrings.bundle/Info.plist</key>
 		<data>
-		vNY+r22sRPotRPCLy0WRXQR6VL4=
+		WsWV8hmDMYvFJi32MB1PX0luIIg=
 		</data>
 		<key>FacebookSDKStrings.bundle/af.lproj/FacebookSDK.strings</key>
 		<dict>
@@ -410,7 +410,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		bSmGf/mu6ndMKZDfH4wecWEwAX4=
+		7lA46iZn/FJl7cB/9WPuuQBaVx0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -423,11 +423,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vNY+r22sRPotRPCLy0WRXQR6VL4=
+			WsWV8hmDMYvFJi32MB1PX0luIIg=
 			</data>
 			<key>hash2</key>
 			<data>
-			27HUEYXGUm+ogv8/m4IHoM7tR76XAgojiETvmsbt07E=
+			6N3bGXcvMNtQKPbhzQMdsjceHoFJtgtvjTbLp5MnQp0=
 			</data>
 		</dict>
 		<key>FacebookSDKStrings.bundle/af.lproj/FacebookSDK.strings</key>
