@@ -50,6 +50,15 @@
 +(State *) CLIENT_AUTO_LOGIN_FAIL ;
 +(State *) CLIENT_HAS_LOGIN;
 
+//appstore fail
++(State *) CLIENT_APPSTORE_PAY_NOT_CONNECT;
+//appstore连接返回不是OK
++(State *) CLIENT_APPSTORE_PAY_RESPONSE_NOTOK;
+//appstore sku NOT FIND
++(State *) CLIENT_APPSTORE_PAY_SKU_NOT_FOUND;
+//appstore 购买不成功
++(State *) CLIENT_APPSTORE_PAY_BUY_FAIL;
+
 //未知错误
 +(State *) CLIENT_UNKNOW_EXCEPTION ;
 
